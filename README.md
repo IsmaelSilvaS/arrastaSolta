@@ -6,10 +6,6 @@
     <img src="./demonstracao-projeto.gif">
 </div>
 
-<div align="center">
-    <a href="">Acessar projeto</a>
-</div>
-
 ## 🧾 Sobre
 
 Projeto **Arrasta e Solta** é o estado inicial para criação de Kanban que foi desenvolvido no módulo de **Javascript** do curso **[B7Web](https://alunos.b7web.com.br/)**.
